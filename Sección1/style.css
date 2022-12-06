@@ -1,12 +1,16 @@
 body{
-    background-color: rgb(175, 231, 245);
+    background-color: rgb(238, 188, 244);
 }
 table,td,th{
     border:1.5px solid black
 
 }
+h1,h3,p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
 .input{
-    margin-left:36em;
+    margin-left:30em;
     margin-bottom: 2em;
 }
 table{
